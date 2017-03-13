@@ -1,0 +1,14 @@
+{
+  "name": "twitterMap",
+  "version": "0.0.1",
+  "author": "JiaweiTang",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "*",
+    "twitter": "*",
+    "socket.io": "*"
+  }
+}
